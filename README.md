@@ -18,4 +18,4 @@ The system integrates two main components:
 <li>Conversational Agent: Powered by GPT-2, this component generates responses that are contextually relevant and engaging, based on the input from the intent classification system and the sentiment analysis results.
 </ol>
 
-For a comprehensive understanding of the methodologies and insights developed in this project, please refer to our project report available <a href=>here</a>.
+For a comprehensive understanding of the methodologies and insights developed in this project, please refer to our project report available <a href=https://github.com/rajtulluri/Generative-AI-Conversational-Bot-for-Enhanced-Product-Review-Insights/blob/main/Generative_AI_Conversational_Bot_for_Enhanced_Product_Review_Insights.pdf>here</a>.
